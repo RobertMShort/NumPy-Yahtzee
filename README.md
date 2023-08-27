@@ -5,7 +5,7 @@ Will soon update to include scoring; complete game.
 
 
 SAMPLE:
-
+```
 1st Roll:
 
 
@@ -66,3 +66,4 @@ Possible Plays
 Doubles of: 3
  
 Full House
+```
