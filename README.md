@@ -1,7 +1,5 @@
 # NumPy-Yahtzee
-Command Line Yahtzee. Made with NumPy. Work in progress.
-
-Will soon update to include scoring; complete game.
+Command Line Yahtzee. Made with NumPy. 
 
 
 SAMPLE:
